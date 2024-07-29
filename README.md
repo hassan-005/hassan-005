@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @hassan-005
-- 👀 I’m interested in web3 development.  
-- 🌱 I’m currently learning "Rust"
+- 👀 I’m blockhchain developer.  
+- 🌱 I’m currently developing on solana blockchain with Rust
+  
